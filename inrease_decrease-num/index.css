@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+#CountDown{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+.botton{
+  display: flex;
+  place-content: center;
+  justify-content: center;
+  width: 0 auto; 
+  
+}
+button{
+    display:inline-block;
+    justify-content: center;
+    margin: 0 auto;
+    place-content: center;
+    margin: 40px 10px 10px 10px;
+    height: 10vh;
+    width: 100px;
+    
+}
